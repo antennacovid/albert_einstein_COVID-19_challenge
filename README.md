@@ -22,3 +22,9 @@ All data were anonymized following the best international practices and recommen
 [**Original dataset**](https://www.kaggle.com/einsteindata4u/covid19)
 
 [**Kaggle Submission**](https://www.kaggle.com/einsteindata4u/covid19/tasks)
+
+[**Author LinkedIn - Kaike Wesley Reis**](https://www.linkedin.com/in/kaike-wesley-reis/)
+
+[**Author Github - KaikeWesleyReis**](https://github.com/KaikeWesleyReis)
+
+**Author email**: kaikewesley@hotmail.com
