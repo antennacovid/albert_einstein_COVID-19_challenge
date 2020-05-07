@@ -18,13 +18,14 @@ All data were anonymized following the best international practices and recommen
 
 :heavy_check_mark: **Task 2** - Predict admission to general ward, semi-intensive unit or intensive care unit among confirmed COVID-19 cases.
 
-## Links
-[**Original dataset**](https://www.kaggle.com/einsteindata4u/covid19)
-
-[**Kaggle Submission**](https://www.kaggle.com/einsteindata4u/covid19/tasks)
-
+## Contact
 [**Author LinkedIn - Kaike Wesley Reis**](https://www.linkedin.com/in/kaike-wesley-reis/)
 
 [**Author Github - KaikeWesleyReis**](https://github.com/KaikeWesleyReis)
 
 **Author email**: kaikewesley@hotmail.com
+
+## Links
+[**Original dataset**](https://www.kaggle.com/einsteindata4u/covid19)
+
+[**Kaggle Submission**](https://www.kaggle.com/einsteindata4u/covid19/tasks)
